@@ -1,4 +1,4 @@
-          ## Olá, Sou o Erick Loyola! 👋
+## Olá, Sou o Erick Loyola! 👋
 
  ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
 
