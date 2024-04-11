@@ -1,4 +1,8 @@
-## <a text align= "center"> Hi, I'm Erick Loyola! 👋🏻 👱🏻‍♂️ 🖥️</a>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! 👋🏻👱🏻‍♂️🖥️</h1></summary>
+</div>
  
 
  ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
