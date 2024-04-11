@@ -1,4 +1,4 @@
-## Hi, I'm Erick Loyola! 👋🏻 👱🏻‍♂️ 🖥️
+## Hi, I'm Erick Loyola! 👋🏻 👱🏻‍♂️ 🖥️ align="center"
  
 
  ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
