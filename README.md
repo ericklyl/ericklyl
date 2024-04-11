@@ -5,7 +5,6 @@
 </div>
  
 
- ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklyl&show_icons=true&theme=gotham)](https://github.com/ericklyl/github-readme-stats)
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklyl&show_icons=true&theme=gotham)
