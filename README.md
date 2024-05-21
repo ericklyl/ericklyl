@@ -4,7 +4,12 @@
     <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! 👋🏻👱🏻‍♂️🖥️</h1></summary>
 </div>
  
+<hr>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoplazzi&layout=compact&theme=transparent&langs&count=10)
+
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklyl&show_icons=true&theme=gotham)](https://github.com/ericklyl/github-readme-stats)
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklyl&show_icons=true&theme=gotham)
