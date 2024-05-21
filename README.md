@@ -11,7 +11,6 @@
 
 
 <hr>
-<hr>
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklyl&show_icons=true&theme=gotham)
 <hr>
