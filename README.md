@@ -6,7 +6,7 @@
  
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoplazzi&layout=compact&theme=transparent&langs&count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklyl&layout=compact&theme=transparent&langs&count=10)
 
 
 <hr>
