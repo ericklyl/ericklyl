@@ -14,7 +14,7 @@
 <hr>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklyl&layout=compact&theme=transparent&langs&count=10)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklyl&show_icons=true&theme=gotham)
 <hr>
 
 ## 🔥 Skills
