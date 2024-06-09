@@ -5,27 +5,24 @@
 </div>
  
 <hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericklyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklyl&layout=compact&theme=transparent&langs&count=10)
-
-
-
-<hr>
-
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklyl&show_icons=true&theme=gotham)
 <hr>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Technologies</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/java.png">
-    <img align="center" alt="postg" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/postgresql.png">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" align="center" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40" align="center" alt="POSTG logo"  />    
     <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/php.png">
     
 
