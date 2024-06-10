@@ -24,6 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" align="center" alt="java logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40" align="center" alt="POSTG logo"  />    
     <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/php.png">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" align="center" width="30" height="33"/>
     
 
 
