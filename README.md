@@ -3,7 +3,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! 👋🏻👱🏻‍♂️🖥️</h1></summary>
 </div>
- 
+    <hr>
+
+ - 🌱 I’m currently learning **Python, Data Science and AI**
+
+- 📫 How to reach me *gamaerick027@gmail.com**
+
 <hr>
 <div align="center">
   
