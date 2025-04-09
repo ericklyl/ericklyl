@@ -11,25 +11,21 @@
 
 <hr>
 <div align="center">
-  
+    <img src="https://github-readme-stats.vercel.app/api?username=ericklyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Technologies</h3>
-  <div style="display: inline_block"></br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+## 🚀 Skills
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericklyl&theme=great_gatsby)
+</div>
     
     
 
@@ -39,15 +35,15 @@
   
 
   
-  ##
+  ## 📬 Contact
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/ericklyl?igsh=MWVxeWdoNGdpMWh1dQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "malito:gamaerick027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erickgll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+  ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
 </div>
 
- ![snake gif](https://github.com/ericklyl/ericklyl/blob/output/github-contribution-grid-snake.gif)
+ 
 
