@@ -3,7 +3,13 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! 👋🏻🧑‍💻</h1></summary>
 </div>
-    <hr>
+    <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7B92E&center=true&random=true&width=600&height=100&lines=Data+Analyst;+AI+Enthusiast" alt="Typing SVG" />
+    </a>
+</p>
+
+<hr>
 
  - 🌱 I’m currently learning **Python, Data Science and AI**
 
