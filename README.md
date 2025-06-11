@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! 👋🏻🧑‍💻</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Erick Loyola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">🧑‍💻</h1></summary>
 </div>
     <p align="center">
     <a href="https://git.io/typing-svg">
