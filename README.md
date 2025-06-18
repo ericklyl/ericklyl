@@ -18,8 +18,8 @@
 <hr>
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericklyl&label=Profile%20views&color=0e75b6&style=flat" alt="ericklyl" /> </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ericklyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+        
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 
@@ -32,7 +32,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericklyl&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericklyl&theme=great_gatsby)
 </div>
     
     
