@@ -15,6 +15,8 @@
 
 - 📫 How to reach me *gamaerick027@gmail.com**
 
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/19_mFeQtRN0rqO9ZRUbwyQJwvMKsZ-bV3/view?usp=sharing)
+
 <hr>
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericklyl&label=Profile%20views&color=0e75b6&style=flat" alt="ericklyl" /> </p>
