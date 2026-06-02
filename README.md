@@ -128,7 +128,7 @@
   <a href="https://www.linkedin.com/in/erickgll/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://erick-loyola.lovable.app/" target="_blank">
+  <a href="https://portfolio-erick-loyola.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
